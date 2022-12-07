@@ -1,0 +1,15 @@
+1.  What is Maven?
+Ans) Maven is a powerful project management tool that is based on POM (project object model).  It is used fo projects build, dependency and documentation.
+Maven compile the code, test the code, validate the code and package the code.
+
+Maven type--Java based build tool.
+Vendor--Apache
+Is open source--yes
+version--3.52
+Is executable software?--No, download as zip, extract and use it.
+
+
+2.  What is the difference between ANT and Maven?
+Ans) 1.  ANT scripts are not reusable and Maven plugins are reusable.
+2.  ANT is less preferred than.  Maven is more preferred than ANT.
+3.  ANT is a build tool and Maven project management tool.
